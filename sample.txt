@@ -1,0 +1,9 @@
+Hello,
+
+You can contact us at support@example.com.
+
+For internship queries, email internship@codealpha.com.
+
+You can also contact hr@example.org for HR related questions.
+
+Thank you.
